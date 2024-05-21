@@ -1,0 +1,42 @@
+.login-website-logo-desktop-image {
+  width: 30px;
+  height: 80px;
+color: #ffffff;
+text-decoration: none;
+padding:10px;
+text-decoration: none;
+}
+
+  .innerlogodiv{
+    color:green;
+    text-align: center;
+    align-self: center;
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+  }
+
+  .vibedesign{
+    color:rgb(185, 16, 16);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  .logocontainer{
+    display: flex;
+    text-decoration: none;
+    width: 210px;
+    margin-top: 10px;
+    /* min-width: 100px; */
+    
+  }
+
+@media(max-width:568px){
+  .logocontainer{
+  width: 180px;
+  margin-top: 14px;
+  margin-left: 30px;
+  }
+}
