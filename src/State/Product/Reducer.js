@@ -5,6 +5,7 @@ const initialState = {
     product: null,
     error: null,
     isLoading: null
+    
 }
 
 export const customerProductReducer = (state = initialState, action) => {
